@@ -3,8 +3,6 @@
 
 [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
 
-## Develop:
-- Gabriel **Vargas Monroy**
 
 Proyecto de desarrollo para construccion de servicios de una manera sencilla como un micro-servicio, control of data
 
